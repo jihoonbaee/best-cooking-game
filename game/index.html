@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rasa Rush — Dapur Kilat</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #0f766e;
+    min-height: 100%;
+    font-family: system-ui, sans-serif;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px;
+    box-sizing: border-box;
+  }
+  #wrap {
+    width: min(1280px, 100%);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+    overflow: hidden;
+    line-height: 0;
+  }
+  canvas {
+    width: 100%;
+    height: auto;
+    display: block;
+    background: #f7e8c9;
+    touch-action: none;
+  }
+  #hint {
+    color: #d1fae5;
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.5;
+  }
+  #hint b { color: #fde68a; }
+</style>
+</head>
+<body>
+  <div id="wrap"><canvas id="game"></canvas></div>
+  <div id="hint">
+    <b>WASD / panah</b> jalan &nbsp;•&nbsp; <b>E / Spasi</b> pakai stasiun &nbsp;•&nbsp; <b>klik</b> lantai untuk jalan ke sana<br>
+    Ambil bahan → potong di talenan → masak di kompor → rakit di meja → sajikan di jendela saji.
+  </div>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
