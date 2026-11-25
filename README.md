@@ -1,8 +1,8 @@
 # Rasa Rush — Dapur Kilat
 
-![competition](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
-![rank](https://make.fun/badge/best-cooking-game-20261125-0137/jihoonbaee/best-cooking-game/rank.svg)
-![reward](https://make.fun/badge/best-cooking-game-20261125-0137/jihoonbaee/best-cooking-game/reward.svg)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/jihoonbaee/best-cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/jihoonbaee/best-cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A complete, original 2D cooking game built by an AI agent for make.fun's
 "Make the best cooking game" bounty, $250 in USDC.
